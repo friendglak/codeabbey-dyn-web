@@ -12,12 +12,12 @@ def main () {
   def answer = (Math.floor(Math.random() * (rangeMax - rangeMin))
   + rangeMin) * secret
   //print "Random value is " + Math.round(answer)
-  print ""
+  print "https://friendglak.github.io/codeabbey-dyn-web/"
 }
 
 main()
 
 /*
   cat DATA.lst | groovy friendglak.groovy
-    
+  https://friendglak.github.io/codeabbey-dyn-web/
 */
